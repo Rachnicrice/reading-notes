@@ -18,11 +18,15 @@
 
 
 4. Compare and contrast SOAP and ReST
-  |                | SOAP         | REST         |
-  | :------------- | :----------: | -----------: |
-  |  What is it?   | A protocol   | A architectural pattern |
+  |                     | SOAP         | REST                         |
+
+  | :------------------ | :----------: | -----------:                 |
+
+  |  What is it?        | A protocol   | A architectural pattern      |
+
   |  How does it work?  | uses service interfaces to expose its functionality to client applications  | uses Uniform Service locators to access to the components on the hardware device |
-  |  Compatible with| XML   | plain text, XML, HTML, JSON |
+
+  |  Compatible with    | XML           | plain text, XML, HTML, JSON |
 
   credit(https://www.guru99.com/comparison-between-web-services.html)
 
