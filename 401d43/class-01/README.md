@@ -28,7 +28,7 @@
 
 4. Explain promises as though you were mentoring a Code 301 level student
 
-  A promis is exactly what it sounds like. It is a promise from another function or service that it will return some data to you at some point in the future. A promis is basically a function saying 'Let me look in to that and call you back later'.
+  A promise is exactly what it sounds like. It is a promise from another function or service that it will return some data to you at some point in the future. A promise is basically a function saying 'Let me look in to that and call you back later'.
 
 5. Are all callback functions considered to be Asynchronous? Why or Why Not?
 
