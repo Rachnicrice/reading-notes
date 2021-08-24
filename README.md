@@ -9,3 +9,4 @@ Reading notes for Code Fellows 401 Advanced Javascript Development course
   - [Class-04](./401d43/class-04/README.md)
   - [Linked-Lists](./401d43/data-structures/linked-lists.md)
   - [Class-06](./401d43/class-06/README.md)
+  - [Class-07](./401d43/class-07/README.md)
