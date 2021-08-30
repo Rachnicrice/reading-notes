@@ -13,3 +13,4 @@ Reading notes for Code Fellows 401 Advanced Javascript Development course
   - [Class-08](./401d43/class-08/README.md)
   - [Class-09](./401d43/class-09/README.md)
   - [Stacks-and-Queues](./401d43/data-structures/stacks-and-queues.md)
+  - [Class-11](./401d43/class-11/README.md)
