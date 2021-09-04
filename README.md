@@ -17,3 +17,4 @@ Reading notes for Code Fellows 401 Advanced Javascript Development course
   - [Class-12](./401d43/class-12/README.md)
   - [Class-13](./401d43/class-13/README.md)
   - [Class-14](./401d43/class-14/README.md)
+  - [Trees](./401d43/data-structures/trees.md)
