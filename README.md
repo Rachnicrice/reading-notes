@@ -28,3 +28,4 @@ Reading notes for Code Fellows 401 Advanced Javascript Development course
   - [Class-29](./401d43/class-29/README.md)
   - [Hash-Tables](./401d43/data-structures/hash-tables.md)
   - [Class-31](./401d43/class-31/README.md)
+  - [Class-32](./401d43/class-32/README.md)
