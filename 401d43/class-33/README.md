@@ -1,4 +1,4 @@
-# Readings: <Login /> and <Auth />
+# Readings: ```<Login />``` and ```<Auth />```
 -------------------------------------------------
 
 ### Review, Research, and Discussion
