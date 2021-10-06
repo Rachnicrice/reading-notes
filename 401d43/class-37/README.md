@@ -19,7 +19,7 @@
 
 immutable state - State that cannot be changed or modified.
 
-time travel in redux - Trackinhg all changes made to state.
+time travel in redux - Tracking all changes made to state.
 
 action creator - A function that formats and returns an action object.
 

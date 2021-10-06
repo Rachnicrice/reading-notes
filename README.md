@@ -34,3 +34,4 @@ Reading notes for Code Fellows 401 Advanced Javascript Development course
   - [Grpahs](./401d43/data-structures/graphs.md)
   - [Class-36](./401d43/class-36/README.md)
   - [Class-37](./401d43/class-37/README.md)
+  - [Class-38](./401d43/class-38/README.md)
