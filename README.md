@@ -36,3 +36,4 @@ Reading notes for Code Fellows 401 Advanced Javascript Development course
   - [Class-37](./401d43/class-37/README.md)
   - [Class-38](./401d43/class-38/README.md)
   - [Class-39](./401d43/class-39/README.md)
+  - [Class-41](./401d43/class-41/README.md)
